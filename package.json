@@ -8,7 +8,7 @@
     "lint": "eslint *.js **/*.js"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "native-base": "^2.11.0",
     "react": "16.6.3",
     "react-native": "0.55.4",
